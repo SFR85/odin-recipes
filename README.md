@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes assignment from The Odin Project html basics
+Recipes assignment from The Odin Project html basics course
